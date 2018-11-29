@@ -1,3 +1,3 @@
 <?php
 
-echo "Index Page";
+echo "Index Page.";

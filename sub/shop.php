@@ -1,3 +1,3 @@
 <?php
 
-echo "Happy shopping";
+echo "Happy shopping!";
